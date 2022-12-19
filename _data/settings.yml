@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Mariana
+title: hooray!
 logo:
 author: themefisher
 description: this is meta description
@@ -34,32 +34,32 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: This is for mariana.
+  hero-title: this is for mariana.
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Hey! I&aposm Mariana, a student at Cornell University studying Computer Science with a minor English. Weird combination, but really, I just love to <i> create </i> -- it doesn&apost matter in what language (even if it happens to be in Java). <br> <br> Among my passions lies learning, and really filling my head with as much information as possible. I recognize, though, that I&aposve been in a privileged position to be able to receive top quality education for the majority of my life, so I&aposm committed to helping others have the same opportunity. I&aposve linked some of the work I&aposve done to make education more accessible to the wider public, and hope this little site empowers you to take action as well! <br> <br> Essentially, this website is just for me to keep track of all my random projects, including my work in tech, art, and everything in between. So enjoy clicking around for a while and exploring some of the stuff I&aposve done, as well as some of the things I&aposm working on right now. I&aposm always looking for passionate people to work alongside, so if any of my projects interest you, feel free to (and please) reach out! <br> <br> Anyway, I&aposll shut up now. You&aposre free to explore.
+blurb: Hey! I'm Mariana, a student at Cornell University studying Computer Science with a minor English. Weird combination, but really, I just love to <i> create </i> -- it doesn't matter in what language (even if it happens to be in Java). <br> <br> Among my passions lies learning, and really filling my head with as much information as possible. I recognize, though, that I&aposve been in a privileged position to be able to receive top quality education for the majority of my life, so I&aposm committed to helping others have the same opportunity. I've linked some of the work I've done to make education more accessible to the wider public, and hope this little site empowers you to take action as well! <br> <br> Essentially, this website is just for me to keep track of all my random projects, including my work in tech, art, and everything in between. So enjoy clicking around for a while and exploring some of the stuff I've done, as well as some of the things I'm working on right now. I'm always looking for passionate people to work alongside, so if any of my projects interest you, feel free to (and please) reach out! <br> <br> Anyway, I&aposll shut up now. You&aposre free to explore.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
 
-# Work Process Section
-work-process:
-  - title: "Research and Plan"
-    icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title: "Design and Develop"
-    icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+## Work Process Section
+#work-process:
+#  - title: "Research and Plan"
+#    icon: "assets/images/icons/plan.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#
+#  - title: "Design and Develop"
+#    icon: "assets/images/icons/design.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#
+#  - title: "Deliver"
+#    icon: "assets/images/icons/print.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 ## My Team Section
 #team:
