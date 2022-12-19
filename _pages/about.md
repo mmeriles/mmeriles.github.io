@@ -1,18 +1,9 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
+title: what's my deal?
+author: mariana meriles
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Oh, fancy seeing you here--I guess I did something right and you want to learn more! <br> <br> I'm Mariana, a 21 year old on a gap year trying to hone in on my passions while learning a bit more about myself and... well, everything. <br> <br> Technically, I'm student at Cornell University studying Computer Science with a minor English. Weird combination, but really, I just love to <i> create </i> -- it doesn't matter in what language (even if it happens to be in Java). That means my projects have a little bit of everything -- tech, writing, art, and often a combination of all three. <br> <br> Among my passions lies learning, and really filling my head with as much information as possible (don't ask me about octopuses, because I won't be able to shut up (and yes, it's octopuses, not octopi. This is important.)) <br> I recognize, though, that I've been in a privileged position to be able to receive top quality education for the majority of my life, so I'm committed to helping others have that same opportunity. After all, everyone should be able to know as much about octopuses as possible. <br> I've included on this site some of the work I've done to make education more accessible to the wider public, and hope it empowers you to take action as well. <br> <br> Like I said earlier, though, this website is essentially just a way for me to keep track of all my random projects, including my work in tech, art, and everything in between. So enjoy exploring some of the stuff I've done, as well as some of the things I'm working on right now. I'm always looking for passionate people to work alongside, so if any of my projects interest you, feel free to (and please) reach out! <br> <br> Anyway, I'll shut up now. You're free to explore... <br> <br> <br> ...and maybe share some of that coffee with me.

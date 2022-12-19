@@ -34,16 +34,16 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: this is for mariana.
+  hero-title: this is for <br> mariana.
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Hey! I'm Mariana, a student at Cornell University studying Computer Science with a minor English. Weird combination, but really, I just love to <i> create </i> -- it doesn't matter in what language (even if it happens to be in Java). <br> <br> Among my passions lies learning, and really filling my head with as much information as possible. I recognize, though, that I&aposve been in a privileged position to be able to receive top quality education for the majority of my life, so I&aposm committed to helping others have the same opportunity. I've linked some of the work I've done to make education more accessible to the wider public, and hope this little site empowers you to take action as well! <br> <br> Essentially, this website is just for me to keep track of all my random projects, including my work in tech, art, and everything in between. So enjoy clicking around for a while and exploring some of the stuff I've done, as well as some of the things I'm working on right now. I'm always looking for passionate people to work alongside, so if any of my projects interest you, feel free to (and please) reach out! <br> <br> Anyway, I&aposll shut up now. You&aposre free to explore.
+blurb: Hey! I'm Mariana, so nice for you to stop by~ <br> This little website is just a way for me to keep track of all my random projects, including stuff in tech, art, and everything in between. So start clicking around, and maybe grab some (iced, black) coffee--i think you'll want stay a while.
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: so what's my deal?
 
 # About Page
 
