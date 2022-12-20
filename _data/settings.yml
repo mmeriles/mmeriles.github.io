@@ -40,7 +40,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: Hey! I'm Mariana, so nice for you to stop by~ <br> This little website is just a way for me to keep track of all my random projects, including stuff in tech, art, and everything in between. So start clicking around, and maybe grab some (iced, black) coffee--i think you'll want stay a while.
+blurb: Hey! I'm Mariana, so nice for you to stop by~ <br> <br> This little website is just a way for me to keep track of all my random projects, including stuff in tech, art, and everything in between. <br> <br> So start clicking around, and maybe grab some (iced, black) coffee--i think you'll want stay a while.
 
 blurb-btn-link: "/about"
 blurb-btn-name: so what's my deal?
@@ -181,59 +181,59 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "tech", type: "tech" }
+  - { title: "writing", type: "writing" }
+  - { title: "random", type: "random" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "tech"
+      - type: "random"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "writing"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "random"
 
   - image: "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "tech"
+      - type: "writing"
 
   - image: "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "random"
 
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "tech"
 
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "writing"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "tech"
+      - type: "writing"
+      - type: "random"
 
   - image: "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "random"
 
 #-------------------------------
 # Testimonials Section
