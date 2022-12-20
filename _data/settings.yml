@@ -40,7 +40,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: Hey! I'm Mariana, so nice for you to stop by~ <p> This little website is just a way for me to keep track of all my random projects, including stuff in tech, art, and everything in between. </p> <p> So start clicking around, and maybe grab some (iced, black) coffee--i think you'll want stay a while. </p>
+blurb: Hey! I'm Mariana, so nice for you to stop by~ <br style="line-height: 10px"> This little website is just a way for me to keep track of all my random projects, including stuff in tech, art, and everything in between. <br style="line-height: 10px"> So start clicking around, and maybe grab some (iced, black) coffee--i think you'll want stay a while.
 
 blurb-btn-link: "/about"
 blurb-btn-name: so what's my deal?
