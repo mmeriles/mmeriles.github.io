@@ -12,7 +12,7 @@ phone: +1 (201) 960 0084
 menu:
   - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
+  - { name: projects, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -188,13 +188,15 @@ portfolio-label:
 portfolio-items:
 # tech section
     # Class Rooster
-  - image: "assets/images/tech_section/class_rooster.png"
+  - project: "class rooster"
+    image: "assets/images/tech_section/class_rooster.png"
     url: "#"
     portfolio-type:
       - type: "tech"
 
     # Classical Quantum Framework
-  - image: "assets/images/tech_section/quantum_computing.png"
+  - project: "Classical Framework for Quantum Applications"
+    image: "assets/images/tech_section/quantum_computing.png"
     url: "#"
     portfolio-type:
       - type: "tech"
@@ -220,7 +222,7 @@ portfolio-items:
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
-      - type: "tech"
+      - type: "writing"
 
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
@@ -230,7 +232,6 @@ portfolio-items:
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "tech"
       - type: "writing"
       - type: "random"
 
