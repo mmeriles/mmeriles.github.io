@@ -194,25 +194,25 @@ portfolio-items:
       - type: "tech"
 
     # Classical Quantum Framework
-  - image: "assets/images/portfolio/quantum_computing.png"
+  - image: "assets/images/tech_section/quantum_computing.png"
     url: "#"
     portfolio-type:
       - type: "tech"
 
     # Aboretoreum
-  - image: "assets/images/portfolio/arboretum.png"
+  - image: "assets/images/tech_section/arboretum.png"
     url: "#"
     portfolio-type:
       - type: "tech"
 
     # Meqanic
-  - image: "assets/images/portfolio/meqanic.png"
+  - image: "assets/images/tech_section/meqanic.png"
     url: "#"
     portfolio-type:
       - type: "tech"
 
     # Quantum Certification
-  - image: "assets/images/portfolio/IBM.png"
+  - image: "assets/images/tech_section/IBM.png"
     url: "#"
     portfolio-type:
       - type: "tech"
